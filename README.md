@@ -11,6 +11,6 @@ Use Splinter for automated browsing to visit the Mars news site and extract HTML
 
 Extract the HTML table into a Pandas DataFrame and analyze the dataset.
 
-### files
+### Files
 
 The data file is in /output/data.csv
