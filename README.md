@@ -10,3 +10,7 @@ Use Splinter for automated browsing to visit the Mars news site and extract HTML
 ### Part 2: Mars Weather Data
 
 Extract the HTML table into a Pandas DataFrame and analyze the dataset.
+
+### files
+
+The data file is in /output/data.csv
